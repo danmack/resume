@@ -39,3 +39,11 @@ For example, on macOS:
 You can find a rendered version of the output on my home page below:
 
   https://macktronics.com/resume.html
+
+If you just want to borrow my recipe for using asciidoctor with a
+Makefile and a docker image, I have just those bits in a separate
+repository here:
+
+  https://github.com/danmack/ascii-easydocker
+
+Hope you find this useful.
