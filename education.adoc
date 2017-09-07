@@ -1,0 +1,8 @@
+- Senior, University of Minnesota, Institute of Technology, Computer
+  Science.  Not currently enrolled; 195 credits completed.
+- Fibre Channel Protocol and Analyzer Operation, Solution Technology,
+  Inc. 2002
+- EMC Control Center and SAN Management 2005
+- EMC SRDF Business Continuity Course 2005
+- Symmetrix Configuration Management 2005
+- LISA USENIX System Administration Courses 1994 and 1997

@@ -1,0 +1,28 @@
+- May 1984: 2nd Place Award / Data Processing & Programming Division-A
+  Competition.  WWTI LaCrosse, WI.
+- Jun 1985 -> Jun 1987: U.S. Army Military Policeman.  Served in
+  Republic of Panama, Honduras, and Costa Rica. Earned Army
+  Achievement, Over Seas, and Good Conduct Medals.  Honorable
+  Discharge.
+- June 1987: Honorary Citizen of Punarenas Provicince, Costa Rica,
+  for participation in the Puentes de La Paz Project.
+- May 2002: Professional PADI SCUBA Diving Instructor. Earned: IDC
+  Staff, Master SCUBA Diver Trainer, and Master SCUBA Diver, amongst
+  other instructor level ratings.
+- Aug 2003: Technical SCUBA Diver earning TDI Advanced Trimix, Trimix,
+  Advanced Nitrox, Gas Blender, and Decompression Procedures
+  Ratings. Approximately 250 technical dives logged.
+- Sep 2006: Licensed United States Parachute Association (USPA)
+  Skydiver.  Over 500 skydives logged.  Currently holding USPA-A and
+  USPA-B licenses.
+= Dec 2004 -> Mar 2008: Emergency First Aid, CPR, and AED Instructor
+  (PADI)
+- On going - I run a semi-production UNIX server farm on my own bare
+  metal, Amazon AWS, and DigitalOcean servers. Technologies I use
+  include Postfix, Cyrus IMAPD and SASL, FreeBSD, SmartOS,
+  CentOS/RedHat, nginx, and a host of other open source software.
+- For fun I also love Cross Country Skiing, riding my skate board
+  (Sector 9/Niark1) or Bianci AXIS bicycle, trail running, weight
+  lifting, and playing computer games like EVE Online.
+
+

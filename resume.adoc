@@ -6,7 +6,7 @@ Dan Mack <mack@macktronics.com>
 
 include::overview.adoc[]
 
-NOTE: this resume is code, fork it @ https://github.com/danmack/resume.git
+NOTE: This resume is code! Fork it @ https://github.com/danmack/resume.git
 
 == Carreer Interests
 
@@ -21,6 +21,10 @@ include::ataglance.adoc[]
 === Activities
 
 include::activities.adoc[]
+
+=== Education
+
+include::education.adoc[]
 
 === Detailed Work History
 
