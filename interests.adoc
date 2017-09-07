@@ -12,9 +12,12 @@ and teamwork.  Specifically leveraging the following skills:
   Solaris and others.
 * [*] High Performance Computing Systems Management (Beowolf, Cplant,
   and OHPC)
+* [*] Creating and/or using tools to improve workflows, add automation,
+  and to make complex tasks easier and more predictable
 * [*] Modern "agile" development process and tools (git, JIRA, and others)
 * [*] Writing technical and user documentation using a variety of tools
-* [*] C, C++, Ruby, Tcl/Tk, Perl, Fortran, Shell, and Python programming experience.
+* [*] C, C++, Ruby, Tcl/Tk, Perl, Fortran, Shell, and Python
+  programming experience.
 * [*] Excellent mentoring and team leadership skills
 * [*] Organization management and budgeting
 * [*] Enterprise Primary Storage and Data Protection Expertise

@@ -1,1 +1,398 @@
-Coming Soon
+
+==== *Director, Engineering*
+****
+Bitwise IO, Inc.
+
+May 17, 2016 -> June 23, 2017
+
+* distributed ledger/blockchain software developement in python
+* CI pipeline design and implementation
+* HPC systems management software analysis, documentation, and development
+* distributed scale testing using Amazon AWS EC2 using terraform and ansible
+* agile team and project management using JIRA
+****
+
+==== *Director, Cloud Engineering*
+****
+Code42 Software, Inc.
+
+February 18, 2013 -> November 6, 2015
+
+Management of team responsible for Code42's Consumer and Enterprise cloud storage infrastructure
+
+* Led team which scaled the Code 42 cloud by a factor of 4 to over 300
+  petabytes of storage across 7 global datacenter locations
+* Improved key metrics of the cloud service including availability,
+  time to provision, data durability, unit cost, and quality of
+  service
+* Grew the team to add additional competencies which added value to
+  our products
+* Responsible for delivering the Cloud service to customers through
+  mature repeatable process, a great team, and the right technology
+****
+
+==== *Storage Architect*
+****
+Thomson Reuters, Inc.
+
+March 2011 -> Feb 2013
+
+As a storage infrastructure architect I design storage service
+offerings from new technologies and process to deliver solutions to
+business units. This involves evaluating and characterizing new
+technologies and incorporating these technologies into larger
+infrastructure building blocks or service offerings.
+
+****
+
+==== *Team Lead: Storage Support*
+****
+Thomson Reuters, Inc.
+
+December 2010 -> March 2011
+
+Team lead of the storage support team covering production storage
+assets.
+
+****
+
+==== *Team Lead: Storage Design*
+****
+Thomson Reuters, Inc.
+
+June 2010 -> December 2010
+
+As the team lead of the storage design team, my role includes:
+
+* Team Leader / Management responsibilities of 3 storage engineers
+* Introducing new storage technologies into the implementation and
+  support organization, including:
+** NetApp Multistore/vFiler Technology
+** Sun 7300 Series Storage Subsystems / ZFS
+** BlueArc and Hitachi (HDS) NAS Filers
+
+****
+
+==== *Lead Storage Engineer: Storage Optimization*
+****
+Thomson Reuters, Inc.
+
+May 2009 -> June 2010
+
+As a member of the storage optimization team, our group rolled out
+storage virtualization technologies (Hitachi USP-V and NetApp
+Multistore) to support increased utilization of storage capacity
+throughout the environment. Specifically:
+
+* thin provisioning
+* automated capacity monitoring, alerting, and mitigation
+* storage migration and visualization
+
+****
+
+==== *Principal Consultant: Storage and Data Protection*
+****
+Glasshouse Technologies, Inc.
+
+October 2004 -> April 2009
+
+As a principal consultant, my emphasis has been on formalizing the
+operational aspects of enterprise infrastructure management and
+implementing technologies to support customer's business
+requirements. This includes developing processes and procedures to
+assure that reliability, performance, and operational requirements are
+met.
+
+Additionally, this role included:
+
+* Being a subject matter expert for multiple GlassHouse customers
+
+* Process and procedure development relating to storage management
+
+* Day to day provisioning of SAN & NAS storage (Storage device
+  selection/creation, Zoning, LUN Masking)
+
+* Supporting EMC Symmetrix DMX Arrays, NetApp Filers, SVC, DS-8300,
+  and Centera storage devices for both Open Systems and iSeries IBM
+  servers.
+
+* Providing Volume Manager Support to server admins for Veritas
+  Storage Foundation for Windows (VSFW)
+
+* Troubleshooting, performance analysis, and issue escalation with
+  vendors.
+
+* Support of CIFS, iSCSI, and NFS protocols.
+
+* Ruby on Rails software development of cost modeling and work flow
+  applications.
+
+* Management of Cisco MDS 9509, 9216, and 9120 Fibre Channel Switches
+
+* Design and implementation of SAN Fabrics using VSANs and IVR to
+  support operational and disaster recovery requirements.
+
+* Day to day maintenance, monitoring, and reporting of key SAN metrics
+
+* Providing storage related subject matter expertise to platform teams
+
+* Creation and development of a software as a service (SaaS)
+  environment.
+
+* Detailed knowledge of the following tools:
+** SSL enabled Apache 2.x Servers and configuration
+** VMWare ESX Configuration and support
+** Ruby on Rails
+** mongrel and phusion passenger servers
+** Bugzilla, Subversion, and Email server configuration and support
+** Wiki deployment
+
+****
+
+==== *Software Engineer*
+****
+Unlimited Scale, Inc. (a.k.a. Cassatt, Inc.)
+
+October 2002 -> October 2004
+
+As a software engineer, work involves software development on Linux
+operating system software related to our clustering product. Other
+activities include supporting product build and source control systems
+and providing technical assistance to our professional services
+organization.
+
+Specific responsibilities include:
+
+* Design and maintenance of product build systems
+
+* Design and maintenance of packaging and installation software
+
+* Design and implementation of a high availability I/O feature
+
+* Liaison with channel partners for build and packaging issues
+
+* Technical coordinator for engineering infrastructure
+
+* Data center and lab design; including electrical and HVAC
+
+* Responsible for VPN (FreeSWAN/IPSEC), WAN, LAN, and WIFI (802.11b/g)
+  Networks
+
+* Support iptables firewalls, Sendmail, Postfix, and BIND software
+
+* Supported CVS Source Control Systems
+
+* Utilized AMANDA and other tools to provide a backup/restore and
+  disaster recovery solution
+
+* Maintain NFS file servers, NIS, DHCP, and Apache web servers
+
+* Support for IA32, IA64 Itanium (HP rx2600), and Alpha systems
+  running RedHat Linux
+
+* Utilized Linux multi-disk (md) on servers to provide enhanced data
+  protection.
+
+****
+
+==== *Senior Storage Engineer*
+****
+Imation Storage Professional Services
+
+December 2001 -> October 2002
+
+As a Senior SAN Engineer, work focused on a variety of storage related
+projects and customer engagements including performance analysis,
+troubleshooting, interoperability testing, disaster recovery planning,
+proof of concept testing, and new product certification. There was
+also participation in pre-sales research, test plan creation, and some
+project management activities.
+
+Some specific highlights include:
+
+* Regular interaction with enterprise customers.
+
+* Proficient configuring Fibre Channel fabric switches (Brocade,
+  Qlogic, etc.)
+
+* Working with a variety of host bus adapters: Emulex, QLogic, JNI,
+  Troika, LSI.
+
+* Familiarity with a variety of storage arrays: CLARiiON/EMC, Compaq
+  RA-8000, LSI E4000 Series, and Hitachi 9260.
+
+* Configuring and maintaining network infrastructure equipment
+  including: Cisco Catalyst 4000 series switches,
+
+* Cisco Routers, Extreme Switches, PIX and IPF (BSD) based Firewalls.
+
+* Maintaining internal DHCP and DNS servers.
+
+* Supporting PPTP and SSH based VPN solutions.
+
+* Working with iSCSI hardware and software. Cisco 5420 & 5428. Linux,
+  Sun, and Windows hosts.
+
+* Real world experience using Fibre Channel Analyzers. Finisar GTX,
+  GTJ, and I-TECH.
+
+* Experience working with file systems and volume managers including
+  Sun UFS, XFS, VxFS, ext2fs, ext3fs, reiserfs, XLV, XVM, and LVM.
+
+* Experience with multipathing software. Compaq SANWorks Secure Path
+  and EMC ATF.
+
+* Participating or leading a variety of SAN engagements using a
+  variety of operating systems
+
+****
+
+==== *Senior System Administrator*
+****
+BraVara Communications, Inc.
+
+December 2000 -> October 2001
+
+Responsible for all I.T. infrastructure in the Minnesota
+office. Maintained firewalls, storage, backups, Internet connectivity,
+DNS, wiring, telephones, and vendor relations. I was also electronic
+postmaster for the entire company.
+
+* Maintained sendmail servers, IMAP servers (Cyrus & UW-IMAP),
+  Mirapoint E-Mail appliance, and supported various mail user agents
+  (mutt, elm, outlook and outlook express).
+* Designed and implemented a web based information system to track
+  employee accounts, contact information, and assets.
+* Maintained desktops and servers running Linux, BSD OS 4.2, and
+  Solaris 7 & 8. Automated common processes.
+* Researched and recommended purchases of development hardware ranging
+  from 1U IA32 systems for prototypes to Sun 280R systems for ASIC
+  simulation purposes.
+
+****
+
+==== *Senior System Administrator*
+****
+Silicon Graphics, Inc. (SGI)
+
+July 1996 -> December 2000
+
+Technical leader and mentor for a system administration team
+maintaining over 1000 UNIX desktop systems and over 30
+servers. Supported IRIX, Linux, SunOS 4.x, and Solaris Operating
+systems on both client and servers. Other highlights include:
+
+* Extensive experience with IRIX 5.3, 6.2 and 6.5.x on both server and
+  desktop platforms.
+* Worked on committees specifying and designing the campus
+  client/server network architecture.
+* Designed and implemented a campus wide backup/recovery system
+  utilizing Legato Networker, SGI servers, and ATL storage libraries.
+* Planned and executed major campus wide upgrades of desktop, server,
+  and storage array OS software.
+* Supported storage on UNIX servers utilizing single disks,
+  host/software based RAID systems, and SGI/Clarion SCSI and Fibre
+  Channel storage arrays.
+* Maintained NFS, NIS, AutoFS, and Samba server software.
+* Utilized Jumpstart (Solaris), Kickstart (Linux), and Roboinst (IRIX)
+  to automate routine server and client installations.
+* Cooperated and worked closely with development organizations to
+  ensure that we were providing infrastructure meeting their needs.
+* Automated routine tasks. Maintained and supported compilers,
+  editors, debuggers and other development software.
+
+****
+
+==== *Senior System Administrator*
+****
+University of Minnesota, Institute of Technology
+
+September 1994 -> June 1996
+
+Technical leader and mentor for 12-15 student employee system
+administrators. Our organization supported 7000+ student UNIX accounts
+and 3 major Institute of Technology computer labs. Specific
+responsibilities:
+
+* Supported hardware and software for Sun, SGI, HP, and Linux desktops
+  located in the major campus computer labs.
+* Electronic Postmaster for 7000+ accounts. Designed, implemented and
+  supported an email system consisting of multiple email hubs spanning
+  3 University departments.
+* Participated in the design and roll-out of the University's first
+  ATM network.
+* Improved network security by developing policies to deal with
+  security incidents, quickly applying security patches, and utilizing
+  intrusion detection techniques.
+* Improved our organization's ability to scale by reducing the number
+  NIS domains, flattening UIDs and GIDs, using the Modules environment
+  modification software, automating system installations, and by
+  making the labs as homogeneous as possible.
+* Supported a research parallel computing lab consisting of SGI
+  Challenge servers on HiPPI, Ethernet, Fibre Channel (IP), and ATM
+  networks. Supported OS software, networking, PVM, MPI, and load
+  balancing software.
+* Deployed the AMANDA backup package to handle all backup system
+  needs. Trained student operators in both backup and restore
+  procedures.
+* Deployed terminal servers to allow for remote console management.
+* Worked with peers to forecast and specify future laboratory and
+  production server needs.
+****
+
+==== *Senior System Administrator*
+****
+Cray Research, Inc.
+
+June 1992 -> Sep 1994
+
+Worked as a member of the Sun Resource group providing front line
+support to Sun, SGI, and Cray users. Provided customer support
+specializing in compilers, debuggers, NFS, NIS, and Email
+software. Designed and wrote a sophisticated on-line customer survey
+tool in C++ which provided valuable feedback from our customer
+base. Also:
+
+* Supported public domain software applications. Installed,
+  maintained, and supported GCC/G++, GDB, Emacs, X11, Motif, and Elm.
+* Installed and supported Sun C & C++ compilers. Worked with engineers
+  to reproduce bugs and escalated bugs to Sun Microsystems when
+  necessary.
+* Supported hardware and software on over 30 Sun Servers and 1500 Sun
+  desktops. This included SPARC Center 1000, 2000, Cray CS6400, ELC,
+  and SPARC 5 systems.
+* Wrote a variety of perl, shell and C programs to automate routine
+  system administrative tasks.
+* Worked as a co-specialist supporting NFS, NIS, AutoFS, and Sendmail.
+
+****
+
+==== *Systems Administrator*
+****
+University of Minnesota, Compute Science Dept.
+
+June 1990 -> June 1992
+
+* supported computer science department UNIX systems and graducate computing labs
+* system admin and operator, staffed help desk
+* worked on backup systems, maintained and installed open source tools
+  used for university curriculum
+
+****
+
+==== *Laboratory Consultant*
+****
+University of Minnesota, Institute of Technology
+
+June 1989 -> June 1990
+
+Worked as a lab consultant in the Institute of Technology Computer
+Science Laboratories. Primary responsibiltiesa included:
+
+* providing assistance to computer science and engineering students
+  with UNIX, VAX, CDC programming environments.
+* tutoring and helping students with C, Pascal, Fortran 77, and
+  assembly language programming problems.
+* troubleshooting problems with PCs, Apple MACs, and Sun workstations
+
+****
