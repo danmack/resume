@@ -6,10 +6,11 @@ Bitwise IO, Inc.
 May 17, 2016 -> June 23, 2017
 
 * distributed ledger/blockchain software developement in python
-* CI pipeline design and implementation
+* CI pipeline design and implementation (Docker, Jenkins, AWS)
 * HPC systems management software analysis, documentation, and development
 * distributed scale testing using Amazon AWS EC2 using terraform and ansible
 * agile team and project management using JIRA
+
 ****
 
 ==== *Director, Cloud Engineering*
@@ -18,17 +19,24 @@ Code42 Software, Inc.
 
 February 18, 2013 -> November 6, 2015
 
-Management of team responsible for Code42's Consumer and Enterprise cloud storage infrastructure
+Leading team of engineers delivering the Code 42 Cloud service
+offering for consumer, commercial, and enterprise
+customers. Responsible for:
 
-* Led team which scaled the Code 42 cloud by a factor of 4 to over 300
-  petabytes of storage across 7 global datacenter locations
-* Improved key metrics of the cloud service including availability,
-  time to provision, data durability, unit cost, and quality of
-  service
-* Grew the team to add additional competencies which added value to
-  our products
-* Responsible for delivering the Cloud service to customers through
-  mature repeatable process, a great team, and the right technology
+* global data center operations
+
+* managing and improving service quality through incredible growth,
+  now well over 300 PB and more than 130,000 disk drives
+
+* hardware appliance product development and life cycle management
+
+* networking, data center, and system administration teams
+
+* improving efficiency, unit cost, data durability, and scalability
+
+* aligning the cloud capabilities with new customer requirements over
+  time
+
 ****
 
 ==== *Storage Architect*
@@ -43,6 +51,28 @@ business units. This involves evaluating and characterizing new
 technologies and incorporating these technologies into larger
 infrastructure building blocks or service offerings.
 
+* storage subject matter expert attending daily incident meetings.
+
+* developed a competency of managing performance as capacity within
+  the organization.
+
+* wrote monitoring and data analysis models and tools to characterize
+  performance across the storage environment.
+
+* integrated performance data into the provisioning process which led
+  to a reduction in performance related incidents and helped with
+  capacity management.
+
+* helped pilot and evaluate several new technologies such as
+  distributed file systems, flash storage arrays, Fibre Channel over
+  Ethernet (FCoE), and others.
+
+* wrote time saving and error reducing programs which reduced the
+  complexity of provisioning storage in the environment. This had a
+  positive effect by reducing time-to-provision (TTP), reduction in
+  errors, and helped the storage admins select the best destination
+  for storage based on both performance and capacity data.
+
 ****
 
 ==== *Team Lead: Storage Support*
@@ -51,8 +81,12 @@ Thomson Reuters, Inc.
 
 December 2010 -> March 2011
 
-Team lead of the storage support team covering production storage
-assets.
+Team lead supporting production storage systems and storage networks:
+
+* light management of team managing the storage environment
+* NetApp, BlueArc, HDS, EMC, and Sun storage arrays
+* Provisioning, Reclamation, Trobleshooting
+* Monitoring, alerting, and automation activities
 
 ****
 
