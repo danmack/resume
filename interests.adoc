@@ -10,6 +10,11 @@ and teamwork.  Specifically leveraging the following skills:
   issues
 * [*] Operating System expertise including FreeBSD, Linux, SmartOS,
   Solaris and others.
+* [*] Regular user of composible infrastructure including Docker,
+  SmartOS Zones, FreeBSD Jails, Vagrant, and other legacy
+  virtualization technologies.
+* [*] Cloud management skills including Joyent Triton/SDC, Amazon
+  AWS/EC2, Terraform, Ansible, DigitalOcean etc.
 * [*] High Performance Computing Systems Management (Beowolf, Cplant,
   and OHPC)
 * [*] Creating and/or using tools to improve workflows, add automation,
