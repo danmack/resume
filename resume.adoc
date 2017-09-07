@@ -1,0 +1,32 @@
+= Resume of Dan Mack
+Dan Mack <mack@macktronics.com>
+:icons: font
+
+== Overview
+
+include::overview.adoc[]
+
+NOTE: this resume is code, fork it @ https://github.com/danmack/resume.git
+
+== Carreer Interests
+
+include::interests.adoc[]
+
+== Experience and Education
+
+=== Experience at a Glance
+
+include::ataglance.adoc[]
+
+=== Activities
+
+include::activities.adoc[]
+
+=== Detailed Work History
+
+include::workhist.adoc[]
+
+=== References
+
+include::references.adoc[]
+

@@ -1,0 +1,30 @@
+
+.Work History at a Glance
+
+[cols="40s,40d,20d"]
+|===
+|Director, Engineering
+|Bitwise IO, Inc.
+|2016 -> 2017
+
+|Director, Clound Engineering
+|Code42 Software, Inc.
+|2013 -> 2015
+
+|Storage Architect
+|Thomson Reuters, Inc.
+|2011 -> 2013
+
+|Storage Team Lead
+|Thomson Reuters, Inc.
+|2009 -> 2011
+
+|Principal Consultant
+|Glasshouse Technologies, Inc.
+|2004 -> 2009
+
+|Software Engineer
+|Unlimited Scale, Inc.
+|2002 -> 2004
+|===
+
