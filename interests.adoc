@@ -4,27 +4,39 @@ leadership.
 Throughout my career I have worked on designing, implementing, and
 managing compute system infrastructure at scale while meeting business
 requirements. This required that I draw on my education, experience,
-and teamwork.  Specifically leveraging the following skills:
+and team work.  Specifically leveraging the following skills:
 
 * [*] Troubleshooting OS, hardware, network, storage and application
   issues
+
 * [*] Operating System expertise including FreeBSD, Linux, SmartOS,
   Solaris and others.
-* [*] Regular user of composible infrastructure including Docker,
-  SmartOS Zones, FreeBSD Jails, Vagrant, and other legacy
+
+* [*] Regular user of dynamic infrastructure patterns including
+  Docker, SmartOS Zones, FreeBSD Jails, Vagrant, and other legacy
   virtualization technologies.
+
 * [*] Cloud management skills including Joyent Triton/SDC, Amazon
   AWS/EC2, Terraform, Ansible, DigitalOcean etc.
-* [*] High Performance Computing Systems Management (Beowolf, Cplant,
+
+* [*] High Performance Computing Systems Management (Beowulf, Cplant,
   and OHPC)
-* [*] Creating and/or using tools to improve workflows, add automation,
+
+* [*] Creating and/or using tools to improve work flows, add automation,
   and to make complex tasks easier and more predictable
+
 * [*] Modern "agile" development process and tools (git, JIRA, and others)
+
 * [*] Writing technical and user documentation using a variety of tools
+
 * [*] C, C++, Ruby, Tcl/Tk, Perl, Fortran, Shell, and Python
   programming experience.
+
 * [*] Excellent mentoring and team leadership skills
+
 * [*] Organization management and budgeting
+
 * [*] Enterprise Primary Storage and Data Protection Expertise
+
 * [*] Strong customer service attitude
 
