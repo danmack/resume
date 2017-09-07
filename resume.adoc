@@ -1,5 +1,6 @@
 = Resume of Dan Mack
 Dan Mack <mack@macktronics.com>
+:toc:
 :icons: font
 
 == Overview
