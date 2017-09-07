@@ -15,7 +15,7 @@
 - Sep 2006: Licensed United States Parachute Association (USPA)
   Skydiver.  Over 500 skydives logged.  Currently holding USPA-A and
   USPA-B licenses.
-= Dec 2004 -> Mar 2008: Emergency First Aid, CPR, and AED Instructor
+- Dec 2004 -> Mar 2008: Emergency First Aid, CPR, and AED Instructor
   (PADI)
 - May 2015: Private Pilot Ground School, Inflight Pilot Training
 - On going - I run a semi-production UNIX server farm on my own bare
