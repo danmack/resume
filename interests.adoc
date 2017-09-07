@@ -1,1 +1,22 @@
+System Administration, systems software development, tools, and team
+leadership.
+
+Throughout my career I have worked on designing, implementing, and
+managing compute system infrastructure at scale while meeting business
+requirements. This required that I draw on my education, experience,
+and teamwork.  Specifically leveraging the following skills:
+
+* [*] Troubleshooting OS, hardware, network, storage and application
+  issues
+* [*] Operating System expertise including FreeBSD, Linux, SmartOS,
+  Solaris and others.
+* [*] High Performance Computing Systems Management (Beowolf, Cplant,
+  and OHPC)
+* [*] Modern "agile" development process and tools (git, JIRA, and others)
+* [*] Writing technical and user documentation using a variety of tools
+* [*] C, C++, Ruby, Tcl/Tk, Perl, Fortran, Shell, and Python programming experience.
+* [*] Excellent mentoring and team leadership skills
+* [*] Organization management and budgeting
+* [*] Enterprise Primary Storage and Data Protection Expertise
+* [*] Strong customer service attitude
 
