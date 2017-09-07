@@ -7,24 +7,59 @@
 |Bitwise IO, Inc.
 |2016 -> 2017
 
-|Director, Clound Engineering
+|Director, Cloud Engineering
 |Code42 Software, Inc.
 |2013 -> 2015
 
-|Storage Architect
+|Enterprise Storage Architect
 |Thomson Reuters, Inc.
 |2011 -> 2013
 
-|Storage Team Lead
+|Team Lead, Storage Support
 |Thomson Reuters, Inc.
-|2009 -> 2011
+|2010-2011
+
+|Team Lead, Storage Design
+|Thomson Reuters, Inc.
+|2010
+
+|Lead Storage Engineer, Storage Optimization
+|Thomson Reuters, Inc.
+|2009 -> 2010
 
 |Principal Consultant
 |Glasshouse Technologies, Inc.
 |2004 -> 2009
 
 |Software Engineer
-|Unlimited Scale, Inc.
+|Unlimited Scale, Inc. (a.k.a. Cassatt, Inc.)
 |2002 -> 2004
-|===
 
+|Senior Storage Engineer
+|Imation Storage Professional Services
+|2001 -> 2002
+
+|Senior System Administrator
+|BraVara Communications, Inc.
+|2000 -> 2001
+
+|Senior System Administrator
+|Silicon Graphics, Inc (SGI)
+|1996 -> 2000
+
+|Senior System Administrator
+|University of Minnesota, Institute of Technology
+|1994 -> 1996
+
+|Programmer/Analyst - System Administrator
+|Cray Research, Inc. Software Division
+|1992 -> 1994
+
+|UNIX System Administrator
+|University of Minnesota, Computer Science Dept.
+|1990 -> 1992
+
+|Laboratory Consultant
+|University of Minnesota, Institue of Technology
+|1989 -> 1990
+|===
