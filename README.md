@@ -20,7 +20,12 @@ desktop or server.
   1. build the docker container using my Makefile
   2. type make
 
-.howto build
+For example, on macOS:
+
     % make dockerimg
     % make
+    docker run -it -v /Users/mack/src/resume:/docs/ alpdoc     asciidoctor resume.adoc
+    docker run -it -v /Users/mack/src/resume:/docs/ alpdoc asciidoctor-pdf resume.adoc
+    % open resume.html
+
 
