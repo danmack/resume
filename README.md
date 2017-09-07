@@ -16,7 +16,7 @@ RCS or SCCS to version them.
 
 ## How?
 
-AsciiDoctor as well as most WSIWYG type document generators require a
+AsciiDoctor as well as most WYSIWYG type document generators require a
 lot of boiler plate and dependencies.  For that reason, it is best to
 use a container to compartmentalize this attack surface and dependency
 cesspool away from your normal desktop, laptop, or server.

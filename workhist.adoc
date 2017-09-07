@@ -5,7 +5,7 @@ Bitwise IO, Inc.
 
 May 17, 2016 -> June 23, 2017
 
-* distributed ledger/blockchain software developement in python
+* distributed ledger/block-chain software development in python
 * CI pipeline design and implementation (Docker, Jenkins, AWS)
 * HPC systems management software analysis, documentation, and development
 * distributed scale testing using Amazon AWS EC2 using terraform and ansible
@@ -85,7 +85,7 @@ Team lead supporting production storage systems and storage networks:
 
 * light management of team managing the storage environment
 * NetApp, BlueArc, HDS, EMC, and Sun storage arrays
-* Provisioning, Reclamation, Trobleshooting
+* Provisioning, Reclamation, Troubleshooting
 * Monitoring, alerting, and automation activities
 
 ****
@@ -101,7 +101,7 @@ As the team lead of the storage design team, my role includes:
 * Team Leader / Management responsibilities of 3 storage engineers
 * Introducing new storage technologies into the implementation and
   support organization, including:
-** NetApp Multistore/vFiler Technology
+** NetApp Multi-store/vFiler Technology
 ** Sun 7300 Series Storage Subsystems / ZFS
 ** BlueArc and Hitachi (HDS) NAS Filers
 
@@ -115,7 +115,7 @@ May 2009 -> June 2010
 
 As a member of the storage optimization team, our group rolled out
 storage virtualization technologies (Hitachi USP-V and NetApp
-Multistore) to support increased utilization of storage capacity
+Multi-store) to support increased utilization of storage capacity
 throughout the environment. Specifically:
 
 * thin provisioning
@@ -407,7 +407,7 @@ University of Minnesota, Compute Science Dept.
 
 June 1990 -> June 1992
 
-* supported computer science department UNIX systems and graducate computing labs
+* supported computer science department UNIX systems and graduate computing labs
 * system admin and operator, staffed help desk
 * worked on backup systems, maintained and installed open source tools
   used for university curriculum
@@ -421,7 +421,7 @@ University of Minnesota, Institute of Technology
 June 1989 -> June 1990
 
 Worked as a lab consultant in the Institute of Technology Computer
-Science Laboratories. Primary responsibiltiesa included:
+Science Laboratories. Primary responsibilities included:
 
 * providing assistance to computer science and engineering students
   with UNIX, VAX, CDC programming environments.
