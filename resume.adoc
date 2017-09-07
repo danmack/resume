@@ -9,7 +9,7 @@ include::overview.adoc[]
 
 NOTE: This resume is code! Fork it @ https://github.com/danmack/resume.git
 
-== Carreer Interests
+== Career Interests
 
 include::interests.adoc[]
 
