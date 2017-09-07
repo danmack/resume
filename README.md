@@ -28,4 +28,6 @@ For example, on macOS:
     docker run -it -v /Users/mack/src/resume:/docs/ alpdoc asciidoctor-pdf resume.adoc
     % open resume.html
 
+You can find a rendered version of the output on my home page:
 
+  https://macktronics.com/resume.html
