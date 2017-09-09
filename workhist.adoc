@@ -84,7 +84,7 @@ December 2010 -> March 2011
 Team lead supporting production storage systems and storage networks:
 
 * light management of team managing the storage environment
-* NetApp, BlueArc, HDS, EMC, and Sun storage arrays
+* NetApp, BlueArc, HDS, EMC, and Sun ZFS storage arrays
 * Provisioning, Reclamation, Troubleshooting
 * Monitoring, alerting, and automation activities
 
