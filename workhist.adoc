@@ -53,6 +53,10 @@ infrastructure building blocks or service offerings.
 
 * storage subject matter expert attending daily incident meetings.
 
+* NAS and SAN subject matter expert on multiple platforms. NetApp,
+  BlueArc, HDS, EMC and ZFS Sun Storage Arrays.  Protocols supported
+  included NFS, FC, FCoE, and iSCSI.
+
 * developed a competency of managing performance as capacity within
   the organization.
 
@@ -355,6 +359,9 @@ responsibilities:
   3 University departments.
 * Participated in the design and roll-out of the University's first
   ATM network.
+* Rolled out the department's first Linux computer lab using
+  Slackware.  Worked with the team to integrate Linux with our
+  name-services, AufoFS, and NFS storage environment.
 * Improved network security by developing policies to deal with
   security incidents, quickly applying security patches, and utilizing
   intrusion detection techniques.
@@ -372,6 +379,7 @@ responsibilities:
 * Deployed terminal servers to allow for remote console management.
 * Worked with peers to forecast and specify future laboratory and
   production server needs.
+
 ****
 
 ==== *Senior System Administrator*
@@ -403,7 +411,7 @@ base. Also:
 
 ==== *Systems Administrator*
 ****
-University of Minnesota, Compute Science Dept.
+University of Minnesota, Computer Science Dept.
 
 June 1990 -> June 1992
 
