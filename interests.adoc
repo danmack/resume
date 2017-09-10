@@ -1,5 +1,5 @@
-System Administration, systems software development, tools, and team
-leadership.
+System Administration, storage and data protection, infrastructure
+management software, development tools, and team leadership.
 
 Throughout my career I have worked on designing, implementing, and
 managing compute system infrastructure at scale while meeting business
