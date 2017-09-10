@@ -8,7 +8,12 @@ Dan Mack <mack@macktronics.com>
 include::overview.adoc[]
 
 
-NOTE: This resume is code! Fork it @ https://github.com/danmack/resume.git
+[NOTE]
+.This resume is code!
+====
+* Fork it @ https://github.com/danmack/resume.git
+* HTML version available @ https://macktronics.com/resume.html
+====
 
 == Career Interests
 
