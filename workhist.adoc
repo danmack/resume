@@ -1,5 +1,4 @@
-
-==== *Director, Engineering*
+=== Director, Engineering
 ****
 Bitwise IO, Inc.
 
@@ -10,10 +9,9 @@ May 17, 2016 -> June 23, 2017
 * HPC systems management software analysis, documentation, and development
 * distributed scale testing using Amazon AWS EC2 using terraform and ansible
 * agile team and project management using JIRA
-
 ****
 
-==== *Director, Cloud Engineering*
+=== Director, Cloud Engineering
 ****
 Code42 Software, Inc.
 
@@ -36,10 +34,9 @@ customers. Responsible for:
 
 * aligning the cloud capabilities with new customer requirements over
   time
-
 ****
 
-==== *Storage Architect*
+=== Storage Architect
 ****
 Thomson Reuters, Inc.
 
@@ -76,10 +73,9 @@ infrastructure building blocks or service offerings.
   positive effect by reducing time-to-provision (TTP), reduction in
   errors, and helped the storage admins select the best destination
   for storage based on both performance and capacity data.
-
 ****
 
-==== *Team Lead: Storage Support*
+=== Team Lead: Storage Support
 ****
 Thomson Reuters, Inc.
 
@@ -91,10 +87,9 @@ Team lead supporting production storage systems and storage networks:
 * NetApp, BlueArc, HDS, EMC, and Sun ZFS storage arrays
 * Provisioning, Reclamation, Troubleshooting
 * Monitoring, alerting, and automation activities
-
 ****
 
-==== *Team Lead: Storage Design*
+=== Team Lead: Storage Design
 ****
 Thomson Reuters, Inc.
 
@@ -108,10 +103,9 @@ As the team lead of the storage design team, my role includes:
 ** NetApp Multi-store/vFiler Technology
 ** Sun 7300 Series Storage Subsystems / ZFS
 ** BlueArc and Hitachi (HDS) NAS Filers
-
 ****
 
-==== *Lead Storage Engineer: Storage Optimization*
+=== Lead Storage Engineer: Storage Optimization
 ****
 Thomson Reuters, Inc.
 
@@ -125,10 +119,9 @@ throughout the environment. Specifically:
 * thin provisioning
 * automated capacity monitoring, alerting, and mitigation
 * storage migration and visualization
-
 ****
 
-==== *Principal Consultant: Storage and Data Protection*
+=== Principal Consultant: Storage and Data Protection
 ****
 Glasshouse Technologies, Inc.
 
@@ -184,10 +177,9 @@ Additionally, this role included:
 ** mongrel and phusion passenger servers
 ** Bugzilla, Subversion, and Email server configuration and support
 ** Wiki deployment
-
 ****
 
-==== *Software Engineer*
+=== Software Engineer
 ****
 Unlimited Scale, Inc. (a.k.a. Cassatt, Inc.)
 
@@ -230,10 +222,9 @@ Specific responsibilities include:
 
 * Utilized Linux multi-disk (md) on servers to provide enhanced data
   protection.
-
 ****
 
-==== *Senior Storage Engineer*
+=== Senior Storage Engineer
 ****
 Imation Storage Professional Services
 
@@ -282,10 +273,9 @@ Some specific highlights include:
 
 * Participating or leading a variety of SAN engagements using a
   variety of operating systems
-
 ****
 
-==== *Senior System Administrator*
+=== Senior System Administrator
 ****
 BraVara Communications, Inc.
 
@@ -306,10 +296,9 @@ postmaster for the entire company.
 * Researched and recommended purchases of development hardware ranging
   from 1U IA32 systems for prototypes to Sun 280R systems for ASIC
   simulation purposes.
-
 ****
 
-==== *Senior System Administrator*
+=== Senior System Administrator
 ****
 Silicon Graphics, Inc. (SGI)
 
@@ -338,10 +327,9 @@ systems on both client and servers. Other highlights include:
   ensure that we were providing infrastructure meeting their needs.
 * Automated routine tasks. Maintained and supported compilers,
   editors, debuggers and other development software.
-
 ****
 
-==== *Senior System Administrator*
+=== Senior System Administrator
 ****
 University of Minnesota, Institute of Technology
 
@@ -379,10 +367,9 @@ responsibilities:
 * Deployed terminal servers to allow for remote console management.
 * Worked with peers to forecast and specify future laboratory and
   production server needs.
-
 ****
 
-==== *Senior System Administrator*
+=== Senior System Administrator
 ****
 Cray Research, Inc.
 
@@ -406,10 +393,9 @@ base. Also:
 * Wrote a variety of perl, shell and C programs to automate routine
   system administrative tasks.
 * Worked as a co-specialist supporting NFS, NIS, AutoFS, and Sendmail.
-
 ****
 
-==== *Systems Administrator*
+=== Systems Administrator
 ****
 University of Minnesota, Computer Science Dept.
 
@@ -419,10 +405,9 @@ June 1990 -> June 1992
 * system admin and operator, staffed help desk
 * worked on backup systems, maintained and installed open source tools
   used for university curriculum
-
 ****
 
-==== *Laboratory Consultant*
+=== Laboratory Consultant
 ****
 University of Minnesota, Institute of Technology
 
@@ -436,5 +421,4 @@ Science Laboratories. Primary responsibilities included:
 * tutoring and helping students with C, Pascal, Fortran 77, and
   assembly language programming problems.
 * troubleshooting problems with PCs, Apple MACs, and Sun workstations
-
 ****

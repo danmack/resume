@@ -19,25 +19,29 @@ include::overview.adoc[]
 
 include::interests.adoc[]
 
+<<<
 == Experience and Education
 
+'''
 === Experience at a Glance
 
 include::ataglance.adoc[]
 
+'''
 === Activities
 
 include::activities.adoc[]
 
+'''
 === Education
 
 include::education.adoc[]
 
-=== Detailed Work History
+== Detailed Work History
 
 include::workhist.adoc[]
 
-=== References
+== References
 
 include::references.adoc[]
 
