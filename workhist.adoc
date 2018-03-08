@@ -1,3 +1,23 @@
+=== Principal Architect
+****
+Parsec Labs, LLC
+
+November, 2017 -> Present
+
+Development of enterprise storage migration systems (software
+and hardware).  Areas of responsibility include:
+
+* Linux Kernel based software stack
+* RedHat Enterprise (RHEL) and Ubuntu Linux development
+* Build, packaging, and installation software for appliances
+* C, Python, Make, CMake, RoR, node, rpmbuild, git, and other tool experience
+* Use of systemd native containers (nspawn), docker, and asciidoctor
+* DevOps Infrastructure management (Jenkins, kickstart, misc automation)
+* Working closely with Fibre Channel (FC), iSCSI, NFS, and CIFS protocols
+* Enterprise storage arrays: NetApp, Pure, Nimble, and Kaminario
+* Appliance architecture, design, and orchestration
+****
+
 === Director, Engineering
 ****
 Bitwise IO, Inc.
