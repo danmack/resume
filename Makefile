@@ -1,3 +1,4 @@
+# GNU Make Makefile
 
 # the name of your source ascii doctor files
 SRC=resume.adoc
@@ -31,6 +32,6 @@ clean:
 	rm -f *.pdf *.html
 
 dockerclean:
-	docker rm $(docker ps -aq)
-	docker rmi $(docker images -q)
+	docker rm $(shell docker ps -aq)
+	docker rmi $(shell docker images -q)
 
