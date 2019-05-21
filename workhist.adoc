@@ -7,14 +7,17 @@ November, 2017 -> Present
 Development of enterprise storage migration systems (software
 and hardware).  Areas of responsibility include:
 
-* Linux Kernel based software stack
 * RedHat Enterprise (RHEL) and Ubuntu Linux development
-* Build, packaging, and installation software for appliances
+* Building, patching, packaging and integration of Linux Kernel into product
+* Integrating NVMEof/TCP storage capabilities into a product
+* Open Container Initiative tool experience (buildah, podman, skopeo)
+* Build, packaging, and installation software for appliance use-cases
 * C, Python, Make, CMake, RoR, node, rpmbuild, git, and other tool experience
-* Use of systemd native containers (nspawn), docker, and asciidoctor
+* Use of systemd native containers (nspawn), OCI, docker, and asciidoctor
 * DevOps Infrastructure management (Jenkins, kickstart, misc automation)
-* Working closely with Fibre Channel (FC), iSCSI, NFS, and CIFS protocols
-* Enterprise storage arrays: NetApp, Pure, Nimble, and Kaminario
+* Working closely with Fibre Channel (FC), iSCSI, NFS, NVME, and SMB
+* Enterprise storage arrays: NetApp, Pavilion Data, Pure, Nimble, and Kaminario
+* Zabbix installation, configuration and management
 * Appliance architecture, design, and orchestration
 ****
 
