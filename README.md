@@ -22,13 +22,22 @@ use a container to compartmentalize this attack surface and dependency
 cesspool away from your normal desktop, laptop, or server.
 
 Included in this repo are the source files for my resume and the
-Docker environment which contains the asciidoctor runtime.
+Open Container Initiative (OCI) environment which contains the asciidoctor
+runtime.
 
-  1. have docker/docker engine installed
-  1. build the docker container using my Makefile
+  1. have OCI tools installed (e.g. podman)
+  1. build the container using the included [Makefile](./Makefile)
   2. type make
 
-For example, on macOS:
+## Workflow Examples
+
+CentOS/RedHat/Fedora:
+
+    % make image
+    % make
+    % xdg-open resume.html
+
+macOS:
 
     % make dockerimg
     % make
@@ -41,9 +50,10 @@ You can find a rendered version of the output on my home page below:
   https://macktronics.com/resume.html
 
 If you just want to borrow my recipe for using asciidoctor with a
-Makefile and a docker image, I have just those bits in a separate
+Makefile and a container image, I have just those bits in a separate
 repository here:
 
   https://github.com/danmack/ascii-easydocker
 
 Hope you find this useful.
+

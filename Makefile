@@ -18,13 +18,13 @@ DIR := ${CURDIR}
 all: $(DOCS)
 
 resume.html: $(SRC) *.adoc
-	docker run -it -v $(DIR):$(DOCDIR)/ $(DCON)     asciidoctor $(SRC)
+	podman run -it -v $(DIR):$(DOCDIR)/:z $(DCON)     asciidoctor $(SRC)
 
 resume.pdf: $(SRC) *.adoc
-	docker run -it -v $(DIR):$(DOCDIR)/ $(DCON) asciidoctor-pdf $(SRC)
+	podman run -it -v $(DIR):$(DOCDIR)/:z $(DCON) asciidoctor-pdf $(SRC)
 
-dockerimg:
-	docker build -t alpdoc .
+image:
+	podman build -t alpdoc .
 
 .PHONY: clean
 
@@ -32,6 +32,5 @@ clean:
 	rm -f *.pdf *.html
 
 dockerclean:
-	docker rm $(shell docker ps -aq)
-	docker rmi $(shell docker images -q)
-
+	-podman rm $(shell podman ps -aq)
+	-podman rmi $(shell podman images -q)
