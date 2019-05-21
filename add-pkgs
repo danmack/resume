@@ -7,10 +7,6 @@ apk add --no-cache \
     patch sudo bash libjpeg-turbo libjpeg-turbo-dev \
     asciidoctor
 
-# openjdk
-
-# ruby gems
-
 cat > Gemfile <<EOF
 source 'https://rubygems.org'
 gem 'asciidoctor'
