@@ -1,8 +1,18 @@
+=== Systems and Storage Engineer
+****
+Self Employed
+
+April 13th, 2020 -> Present
+
+Experienced system, storage, and network administrator, specializing in
+UNIX based operating systems.
+****
+
 === Principal Architect
 ****
 Parsec Labs, LLC
 
-November, 2017 -> Present
+November, 2017 -> April 9th, 2020
 
 Development of enterprise storage migration systems (software
 and hardware).  Areas of responsibility include:

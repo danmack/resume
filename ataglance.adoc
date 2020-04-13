@@ -2,7 +2,7 @@
 |===
 |Principal Architect
 |Parsec Labs
-|2017 -> Present
+|2017 -> 2020
 
 |Director, Engineering
 |Bitwise IO, Inc.
