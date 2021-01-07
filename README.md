@@ -1,6 +1,7 @@
 # My Resume as Code
 
-The following is a "port" of my Resume to AsciiDoctor.
+The following is a "port" of my Resume to AsciiDoctor.  It converts
+asciidoc documents into html, pdf, and Microsoft Word (docx) files.
 
 ## Why?
 
@@ -41,8 +42,11 @@ macOS:
 
     % make dockerimg
     % make
-    docker run -it -v /Users/mack/src/resume:/docs/ alpdoc     asciidoctor resume.adoc
-    docker run -it -v /Users/mack/src/resume:/docs/ alpdoc asciidoctor-pdf resume.adoc
+    podman run -it -v /home/mack/src/resume:/docs/:z alpdoc     asciidoctor resume.adoc
+    podman run -it -v /home/mack/src/resume:/docs/:z alpdoc asciidoctor-pdf resume.adoc
+    podman run -it -v /home/mack/src/resume:/docs/:z alpdoc asciidoctor --backend docbook resume.adoc
+    podman run -it -v /home/mack/src/resume:/docs/:z alpdoc pandoc --from docbook --to docx resume.xml --output resume.docx
+
     % open resume.html
 
 You can find a rendered version of the output on my home page below:
