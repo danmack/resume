@@ -4,7 +4,7 @@
 SRC=resume.adoc
 
 # the output files
-DOCS=resume.html resume.pdf
+DOCS=resume.html resume.pdf resume.docx
 
 # name of your docker image with ascii doctor installed
 DCON=alpdoc
@@ -23,13 +23,19 @@ resume.html: $(SRC) *.adoc
 resume.pdf: $(SRC) *.adoc
 	podman run -it -v $(DIR):$(DOCDIR)/:z $(DCON) asciidoctor-pdf $(SRC)
 
+resume.xml:
+	podman run -it -v $(DIR):$(DOCDIR)/:z $(DCON) asciidoctor --backend docbook $(SRC)
+
+resume.docx: resume.xml
+	podman run -it -v $(DIR):$(DOCDIR)/:z $(DCON) pandoc --from docbook --to docx resume.xml --output resume.docx
+
 image:
 	podman build -t alpdoc .
 
 .PHONY: clean
 
 clean:
-	rm -f *.pdf *.html
+	rm -f *.pdf *.html *.xml *.docx
 
 dockerclean:
 	-podman rm $(shell podman ps -aq)
