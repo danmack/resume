@@ -4,7 +4,7 @@
 SRC=resume.adoc
 
 # the output files
-DOCS=resume.html resume.pdf resume.docx
+DOCS=resume.html resume.pdf resume.xml resume.docx
 
 # name of your docker image with ascii doctor installed
 DCON=alpdoc
@@ -23,7 +23,7 @@ resume.html: $(SRC) *.adoc
 resume.pdf: $(SRC) *.adoc
 	podman run -it -v $(DIR):$(DOCDIR)/:z $(DCON) asciidoctor-pdf $(SRC)
 
-resume.xml:
+resume.xml: $(SRC) *.adoc
 	podman run -it -v $(DIR):$(DOCDIR)/:z $(DCON) asciidoctor --backend docbook $(SRC)
 
 resume.docx: resume.xml
