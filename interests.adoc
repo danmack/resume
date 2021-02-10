@@ -9,7 +9,7 @@ and team work.  Specifically leveraging the following skills:
 * [*] Troubleshooting OS, hardware, network, storage and application
   issues
 
-* [*] Managment/support of core Internet facing components such as BIND,
+* [*] Management/support of core Internet facing components such as BIND,
   Postfix, Sendmail, Firewalls and Load Balancers.
 
 * [*] Operating System expertise including Linux, FreeBSD, SmartOS,
