@@ -1,8 +1,19 @@
+
+=== Quantum R&D Engineer
+****
+Quantum Computing Inc
+
+Feb 15, 2021 -> Present
+
+
+
+****
+
 === Systems and Storage Engineer
 ****
 Self Employed
 
-April 13th, 2020 -> Present
+April 13th, 2020 -> Feb 14th, 2021
 
 Experienced system, storage, and network administrator, specializing in
 UNIX based operating systems.

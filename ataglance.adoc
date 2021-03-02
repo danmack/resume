@@ -1,5 +1,9 @@
 [cols="40s,40d,20d"]
 |===
+|Quantum R&D Engineer
+|Quantum Computing Inc
+|2021 -> Present
+
 |Principal Architect
 |Parsec Labs
 |2017 -> 2020
